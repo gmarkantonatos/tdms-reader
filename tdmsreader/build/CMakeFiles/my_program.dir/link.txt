@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_program.dir/main.cpp.o -o my_program  /home/gerasmark/daphne/io/libtdms-gpl-0.7/build/lib/libtdms.a 

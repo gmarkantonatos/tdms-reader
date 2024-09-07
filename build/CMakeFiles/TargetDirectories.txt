@@ -1,0 +1,7 @@
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/build/CMakeFiles/tdms.dir
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/build/CMakeFiles/edit_cache.dir
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/build/CMakeFiles/rebuild_cache.dir
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/build/CMakeFiles/list_install_components.dir
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/build/CMakeFiles/install.dir
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/build/CMakeFiles/install/local.dir
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/build/CMakeFiles/install/strip.dir

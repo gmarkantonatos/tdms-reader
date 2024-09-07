@@ -1,0 +1,3 @@
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/tdmsreader/build/CMakeFiles/my_program.dir
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/tdmsreader/build/CMakeFiles/edit_cache.dir
+/home/gerasmark/daphne/io/libtdms-gpl-0.7/tdmsreader/build/CMakeFiles/rebuild_cache.dir
